@@ -1,0 +1,1 @@
+Click on the canvas to generate wind force to the right.
