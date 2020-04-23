@@ -16,7 +16,7 @@ class Projectile{
       this.vel *= -1;
     }
     if(this.pos.y > height-this.radius-3){
-      this.vel = 0;
+      this.vel *= -0.5;
     }else if(this.pos.y < 0){
       this.vel *= -1;
     }
